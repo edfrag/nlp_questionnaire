@@ -1,0 +1,13 @@
+1. Have you used, tested or implemented Sentiment Analysis in NLP?
+2. Have you used Code-less/Low-code ML platforms? E.g., AWS SageMaker and Google AutoML.
+3. (Implementing and architecting ML) Would you recommended Code-less/Low-code ML platforms over an equivalent on-prem solution? E.g AWS SageMaker and Google AutoML.
+4. Have you experienced problems with Code-less/Low-code ML platforms due to lack of options to customise the product?
+5. Have you used NLP Code-less/Low-code products? e.g., AWS Comprehend and Google Natural Language API.
+6. When building a training dataset, have you used a Code-less/Low-code solution?
+7. (Implementing and architecting ML) Would you recommended a Cloud based solution ML platform over an equivalent on-prem solution?
+8. Have you created a data pipeline fully on-premise?
+9. Have you created a data pipeline fully on Cloud?
+10. Have you use used Kaggle or Hugging Face ML models?
+11. Have you used HuggingFace transformer pipeline for sentiment-analysis?
+12. Have you used NLTK-Vader?
+13. Have you worked with multi-lingual (code-mixed data) datasets?
