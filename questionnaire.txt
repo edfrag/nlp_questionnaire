@@ -1,3 +1,5 @@
+# This document does not represent the real form of the document used during the survey. The survey was sent eletronically to the participants involved.
+Tittle: NLP Trends Survey
 1. Have you used, tested or implemented Sentiment Analysis in NLP?
 2. Have you used Code-less/Low-code ML platforms? E.g., AWS SageMaker and Google AutoML.
 3. (Implementing and architecting ML) Would you recommended Code-less/Low-code ML platforms over an equivalent on-prem solution? E.g AWS SageMaker and Google AutoML.
